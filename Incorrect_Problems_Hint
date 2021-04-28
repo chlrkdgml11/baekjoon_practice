@@ -11,6 +11,12 @@ max, index, 배열 선언
 2438
 end
 
+2562
+max, index
+
+2577
+str, ord
+
 2753
 and &, or | 차이 확인
 
